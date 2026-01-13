@@ -192,14 +192,14 @@
       ]
     }
   ],
-  "title": "Extra Readings",
+  "title": "Introduction",
   "autogenerate": {
     "enabled": false,
     "type": "home"
   },
-  "slug": "extra-readings",
+  "slug": "introduction",
   "created_at": "2026-01-13T19:09:38.885Z",
   "created_by": "faguero123",
-  "updated_at": "2026-01-13T19:27:05.884Z",
+  "updated_at": "2026-01-13T19:27:25.216Z",
   "updated_by": "faguero123"
 }
